@@ -4,8 +4,13 @@ email: kinger.siddharth@gmail.com
 description: "I love data science"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kingersid.github.io/new33/" # the base hostname & protocol for your site
+<<<<<<< HEAD
 twitter_username: @SidKinger
 github_username:  kingersid
+=======
+twitter_username: jekyllrb
+github_username:  jekyll
+>>>>>>> d66665a6b096aebb538ca1f2027af217ed9c9c10
 
 # Build settings
 markdown: kramdown
